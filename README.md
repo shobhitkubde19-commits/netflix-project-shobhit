@@ -1,0 +1,5 @@
+This project focuses on analyzing and predicting patterns in Netflix’s dataset using advanced data preprocessing, exploratory data analysis, and machine learning techniques. We began by cleaning and transforming the raw data, handling missing values, encoding categorical variables, and scaling numerical features for consistency. Feature engineering was applied to derive meaningful insights, followed by model building using two machine learning algorithms.
+
+Cross-validation and hyperparameter tuning were performed to optimize model performance, with evaluation metrics such as accuracy, precision, recall, and F1-score guiding the selection of the best-performing model. The final chosen model achieved strong predictive accuracy and interpretability, with feature importance analysis highlighting key factors influencing predictions.
+
+This end-to-end pipeline not only offers reliable predictions but also provides actionable insights into viewing trends, content categorization, and potential customer engagement patterns, making it a valuable tool for strategic decision-making in the streaming domain.
